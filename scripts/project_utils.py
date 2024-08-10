@@ -1,4 +1,5 @@
-##**Load the required libraries.**
+# -*- coding: utf-8 -*-
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
